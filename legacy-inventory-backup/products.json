@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "LG UltraGear 27\" 165Hz",
+    "stock": 24,
+    "stock_text": "24 in stock",
+    "category": "Gaming Monitors",
+    "location_count": 2,
+    "location_text": "2 stores",
+    "badge_status": "Active",
+    "image_url": "https://www.jib.co.th/img_master/product/original/20230529153105_59929_287_1.jpg"
+  },
+  {
+    "id": "2",
+    "name": "Dell UltraSharp 27\" 4K",
+    "stock": 8,
+    "stock_text": "8 in stock",
+    "category": "Office Monitors",
+    "location_count": 1,
+    "location_text": "1 store",
+    "badge_status": "Active",
+    "image_url": "https://images.unsplash.com/photo-1586952518485-11b180e92764?w=200&h=200&fit=crop"
+  },
+  {
+    "id": "3",
+    "name": "Samsung Odyssey G9",
+    "stock": 3,
+    "stock_text": "3 in stock",
+    "category": "Curved Monitors",
+    "location_count": 1,
+    "location_text": "1 store",
+    "badge_status": "Low in stock",
+    "image_url": "https://images.unsplash.com/photo-1551645120-d70bfe84c826?w=200&h=200&fit=crop"
+  },
+  {
+    "id": "4",
+    "name": "BenQ ZOWIE 24\" 144Hz",
+    "stock": 15,
+    "stock_text": "15 in stock",
+    "category": "Esports Monitors",
+    "location_count": 3,
+    "location_text": "3 stores",
+    "badge_status": "Active",
+    "image_url": "https://images.unsplash.com/photo-1616763355548-1b606f439fce?w=200&h=200&fit=crop"
+  }
+]
