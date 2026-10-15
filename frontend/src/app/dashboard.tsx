@@ -541,8 +541,8 @@ const styles = StyleSheet.create({
   placeholderBox: { alignItems: 'center', paddingVertical: 24, gap: 8 },
   placeholderText: { color: '#94A3B8', fontSize: 13, textAlign: 'center' },
 
-  clusterList: { flexDirection: 'row', flexWrap: 'wrap', gap: 6, marginTop: 14 },
-  clusterCard: { flexGrow: 1, flexBasis: 96, borderRadius: 14, paddingVertical: 12, paddingHorizontal: 10, borderWidth: 1 },
+  clusterList: { flexDirection: 'column', gap: 10, marginTop: 14 },
+  clusterCard: { width: '100%', borderRadius: 14, paddingVertical: 12, paddingHorizontal: 10, borderWidth: 1 },
   clusterHeader: { flexDirection: 'row', alignItems: 'center', gap: 6 },
   clusterIcon: { padding: 4, borderRadius: 6 },
   clusterTier: { fontSize: 15, fontWeight: '800' },
